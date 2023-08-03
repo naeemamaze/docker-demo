@@ -38,5 +38,5 @@ Build pipeline of the application
 
 
 
-# docker image url
+# docker image url  
 https://hub.docker.com/repository/docker/naeemamaze/docker-nodejs-demo/general
