@@ -116,6 +116,7 @@ Verify the docker pull request from ubuntu instance
 Verify the output using cli mode
 
 <img width="844" alt="2_dockercheckingonserver" src="https://github.com/naeemamaze/docker-demo/assets/91151516/bfed189a-0df9-4c13-baea-455ffa84eca0">
+
 # step 14
 Verify the output using browser Sample web application
 
