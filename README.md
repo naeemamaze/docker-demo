@@ -119,6 +119,7 @@ Verify the output using cli mode
 Verify the output using browser Sample web application
 
 <img width="798" alt="3_sampleoutputhttp" src="https://github.com/naeemamaze/docker-demo/assets/91151516/c97b1c65-4bbe-42a5-9fbe-4ae68720296c">
+
 # Build pipeline of the application
 
 <img width="938" alt="pipeline2" src="https://github.com/naeemamaze/docker-demo/assets/91151516/2feb7a42-0762-41d2-b868-5d78a42836d9">
