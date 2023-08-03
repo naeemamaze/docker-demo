@@ -12,8 +12,9 @@ git commit -m "My first commit"
 git pull origin main
 # Step 6
 git push origin main
-
-
+# Step 7
+AWS console launch Ubuntu instance
+<img width="843" alt="image" src="https://github.com/naeemamaze/docker-demo/assets/91151516/f8b30da4-ebc8-4557-80a3-92f484949e82">
 
 
 
