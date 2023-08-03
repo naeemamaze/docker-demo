@@ -25,6 +25,7 @@ Build pipeline of the application
 <img width="938" alt="pipeline2" src="https://github.com/naeemamaze/docker-demo/assets/91151516/2feb7a42-0762-41d2-b868-5d78a42836d9">
 # step 11
 # Build node.js app with docker following commands
+# Following commands are in script use this link https://github.com/naeemamaze/jenkins-docker.git
 FROM jenkins/jenkins:lts
 USER root
 
@@ -37,6 +38,14 @@ RUN mkdir -p /tmp/download && \
  usermod -aG staff,docker jenkins
 
 USER jenkins
+
+# work with linux instance
+docker ps -a
+git clone https://github.com/naeemamaze/jenkins-docker.git
+docker build -t jenkins-docker .
+ls /var/jenkins_home
+docker run -p 8080:8080 -p 50000:50000 -v /var/jenkins_home:/var/jenkins_home -v /var/run/docker.sock:/var/run/docker.sock:/var/run/docker.sock --name jenkins -d jenkins-docker ps -a
+
 
 # docker image url  
 https://hub.docker.com/repository/docker/naeemamaze/docker-nodejs-demo
