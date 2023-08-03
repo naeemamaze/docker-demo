@@ -113,12 +113,14 @@ Verify the docker pull request from ubuntu instance
 <img width="944" alt="1_dockerpull" src="https://github.com/naeemamaze/docker-demo/assets/91151516/962e2b0b-91b5-48d8-95fa-edcc490fed0c">
 # step 13
 Verify the output using cli mode
+
 <img width="844" alt="2_dockercheckingonserver" src="https://github.com/naeemamaze/docker-demo/assets/91151516/bfed189a-0df9-4c13-baea-455ffa84eca0">
 # step 14
 Verify the output using browser Sample web application
-<img width="798" alt="3_sampleoutputhttp" src="https://github.com/naeemamaze/docker-demo/assets/91151516/c97b1c65-4bbe-42a5-9fbe-4ae68720296c">
 
+<img width="798" alt="3_sampleoutputhttp" src="https://github.com/naeemamaze/docker-demo/assets/91151516/c97b1c65-4bbe-42a5-9fbe-4ae68720296c">
 # Build pipeline of the application
+
 <img width="938" alt="pipeline2" src="https://github.com/naeemamaze/docker-demo/assets/91151516/2feb7a42-0762-41d2-b868-5d78a42836d9">
 
 
