@@ -18,7 +18,7 @@ After puhsing the codes, it will be available in  git hub repository here that l
 AWS console launch Ubuntu instance
 <img width="843" alt="image" src="https://github.com/naeemamaze/docker-demo/assets/91151516/f8b30da4-ebc8-4557-80a3-92f484949e82">
 # Step 9
-Jenkins installation using docker with shell script, create job in jenkins and build application and here list out all jobs for this process
+Jenkins installation using docker with shell script 
 # get clone from link
 git clone https://github.com/naeemamaze/docker-demo.git/install_jenkins.sh
 
@@ -56,6 +56,7 @@ echo 'You should now be able to access jenkins at: http://'$(curl -4 -s ifconfig
 #
 #
 # Step 10
+create job in jenkins and build application and here list out all jobs for this process
 
 <img width="945" alt="8_jenkinsoverview" src="https://github.com/naeemamaze/docker-demo/assets/91151516/7d078dce-45e8-42b0-b229-c12b1bcd693d">
 
