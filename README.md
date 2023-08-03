@@ -1,5 +1,5 @@
 # docker-demo
-step:1 push the codes using vs code terminal
+# push the codes using vs code terminal
 git init
 git remote add origin https://github.com/naeemamaze/docker-web.git
 git add .
